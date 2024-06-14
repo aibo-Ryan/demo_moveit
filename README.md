@@ -13,7 +13,8 @@ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release --packages-select demo_move
 ```
 ## 3. run
 + run moveit2_tutorials launch
-if not installed moveit2_tutorials, please refer to the article in here.
+if not installed moveit2_tutorials, please refer to the article in [here](https://blog.csdn.net/ryanji/article/details/139467940).
+
 + run demo_moveit launch
 
 ```
